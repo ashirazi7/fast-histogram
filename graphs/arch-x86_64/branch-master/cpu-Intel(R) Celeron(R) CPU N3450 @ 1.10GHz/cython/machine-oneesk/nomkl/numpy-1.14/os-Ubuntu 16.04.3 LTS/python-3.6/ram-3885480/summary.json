@@ -1,0 +1,1752 @@
+[
+    {
+        "change_rev": null,
+        "idx": 0,
+        "last_err": 2.5128496113771613e-06,
+        "last_rev": 106,
+        "last_value": 0.0002860788298701298,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(False, '>i4', 1000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 1,
+        "last_err": 6.899947846575382e-06,
+        "last_rev": 106,
+        "last_value": 0.0005747010740740736,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(False, '>i4', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 2,
+        "last_err": 1.433712046439495e-05,
+        "last_rev": 106,
+        "last_value": 0.003720957321428575,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(False, '>i4', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 3,
+        "last_err": 0.00018199411111111154,
+        "last_rev": 106,
+        "last_value": 0.034546208333333314,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(False, '>i4', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 4,
+        "last_err": 0.0027091308596491268,
+        "last_rev": 106,
+        "last_value": 0.3538148269999999,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(False, '>i4', 10000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 5,
+        "last_err": 1.5416238433988259e-06,
+        "last_rev": 106,
+        "last_value": 0.00025352016129032254,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(False, '<f4', 1000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 6,
+        "last_err": 4.626236743317544e-06,
+        "last_rev": 106,
+        "last_value": 0.0003892376584507044,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(False, '<f4', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 7,
+        "last_err": 1.543836508569194e-05,
+        "last_rev": 106,
+        "last_value": 0.001957290080357144,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(False, '<f4', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 8,
+        "last_err": 8.013485087719203e-05,
+        "last_rev": 106,
+        "last_value": 0.01705229033333335,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(False, '<f4', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 9,
+        "last_err": 0.0010437472456140274,
+        "last_rev": 106,
+        "last_value": 0.16776490249999987,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(False, '<f4', 10000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 10,
+        "last_err": 1.7626820582830172e-06,
+        "last_rev": 106,
+        "last_value": 0.00026086552375296904,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(False, '>f8', 1000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 11,
+        "last_err": 5.578842114192813e-06,
+        "last_rev": 106,
+        "last_value": 0.00044151537500000085,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(False, '>f8', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 12,
+        "last_err": 1.4548046093259138e-05,
+        "last_rev": 106,
+        "last_value": 0.002507428454545455,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(False, '>f8', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 13,
+        "last_err": 0.0001673108438596556,
+        "last_rev": 106,
+        "last_value": 0.022511084000000015,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(False, '>f8', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 14,
+        "last_err": 0.001398778087719295,
+        "last_rev": 106,
+        "last_value": 0.2215298214999999,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(False, '>f8', 10000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 15,
+        "last_err": 1.8104980941249244e-06,
+        "last_rev": 106,
+        "last_value": 0.00025171856202531664,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(False, '<f8', 1000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 16,
+        "last_err": 4.507914546352602e-06,
+        "last_rev": 106,
+        "last_value": 0.0003968188577075099,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(False, '<f8', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 17,
+        "last_err": 1.2611079359610173e-05,
+        "last_rev": 106,
+        "last_value": 0.002194013669999999,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(False, '<f8', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 18,
+        "last_err": 0.00011888181169590982,
+        "last_rev": 106,
+        "last_value": 0.019432586833333338,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(False, '<f8', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 19,
+        "last_err": 0.0010387361666666563,
+        "last_rev": 106,
+        "last_value": 0.19081501800000011,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(False, '<f8', 10000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            null,
+            13
+        ],
+        "idx": 20,
+        "last_err": 1.309869157939399e-06,
+        "last_rev": 106,
+        "last_value": 3.418244413809728e-05,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(True, '>i4', 1000.0)",
+        "prev_value": 4.940487695399734e-05
+    },
+    {
+        "change_rev": [
+            40,
+            42
+        ],
+        "idx": 21,
+        "last_err": 1.5867248917599035e-06,
+        "last_rev": 106,
+        "last_value": 0.00011194432175551952,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(True, '>i4', 10000.0)",
+        "prev_value": 0.00012478201843287527
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 22,
+        "last_err": 8.734929157427884e-06,
+        "last_rev": 106,
+        "last_value": 0.0008963172845528448,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(True, '>i4', 100000.0)",
+        "prev_value": 0.001161143596774194
+    },
+    {
+        "change_rev": null,
+        "idx": 23,
+        "last_err": 0.0008237524788995722,
+        "last_rev": 106,
+        "last_value": 0.012595296750000005,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(True, '>i4', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 24,
+        "last_err": 0.0007220870499999865,
+        "last_rev": 106,
+        "last_value": 0.09012758949999988,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(True, '>i4', 10000000.0)",
+        "prev_value": 0.15640199199999993
+    },
+    {
+        "change_rev": [
+            null,
+            13
+        ],
+        "idx": 25,
+        "last_err": 1.051891490895328e-06,
+        "last_rev": 106,
+        "last_value": 3.046411292364583e-05,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(True, '<f4', 1000.0)",
+        "prev_value": 4.639551862058782e-05
+    },
+    {
+        "change_rev": [
+            null,
+            13
+        ],
+        "idx": 26,
+        "last_err": 1.5475855713326407e-06,
+        "last_rev": 106,
+        "last_value": 9.200221392561984e-05,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(True, '<f4', 10000.0)",
+        "prev_value": 0.00012640717758319737
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 27,
+        "last_err": 3.4294491524025293e-06,
+        "last_rev": 106,
+        "last_value": 0.0007254843741721851,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(True, '<f4', 100000.0)",
+        "prev_value": 0.0009401558636363636
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 28,
+        "last_err": 1.5875153846153268e-05,
+        "last_rev": 106,
+        "last_value": 0.007412038678571415,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(True, '<f4', 1000000.0)",
+        "prev_value": 0.00913472890909091
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 29,
+        "last_err": 7.276750000002607e-05,
+        "last_rev": 106,
+        "last_value": 0.07304083750000001,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(True, '<f4', 10000000.0)",
+        "prev_value": 0.13503377849999998
+    },
+    {
+        "change_rev": [
+            null,
+            13
+        ],
+        "idx": 30,
+        "last_err": 1.276168509627612e-06,
+        "last_rev": 106,
+        "last_value": 3.116719329279396e-05,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(True, '>f8', 1000.0)",
+        "prev_value": 4.704115598725143e-05
+    },
+    {
+        "change_rev": [
+            null,
+            13
+        ],
+        "idx": 31,
+        "last_err": 4.583869975230406e-06,
+        "last_rev": 106,
+        "last_value": 9.765092454545455e-05,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(True, '>f8', 10000.0)",
+        "prev_value": 0.00013267942885830645
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 32,
+        "last_err": 4.9085367040868326e-06,
+        "last_rev": 106,
+        "last_value": 0.0008913894637096769,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(True, '>f8', 100000.0)",
+        "prev_value": 0.0010509071586538464
+    },
+    {
+        "change_rev": [
+            null,
+            13
+        ],
+        "idx": 33,
+        "last_err": 0.0005193652107610184,
+        "last_rev": 106,
+        "last_value": 0.009594519772727267,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(True, '>f8', 1000000.0)",
+        "prev_value": 0.01167615572222222
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 34,
+        "last_err": 9.805605000001716e-05,
+        "last_rev": 106,
+        "last_value": 0.08251572899999993,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(True, '>f8', 10000000.0)",
+        "prev_value": 0.14649909799999983
+    },
+    {
+        "change_rev": [
+            null,
+            13
+        ],
+        "idx": 35,
+        "last_err": 8.458727139996673e-07,
+        "last_rev": 106,
+        "last_value": 2.6091637683014193e-05,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(True, '<f8', 1000.0)",
+        "prev_value": 4.091976541378604e-05
+    },
+    {
+        "change_rev": [
+            null,
+            13
+        ],
+        "idx": 36,
+        "last_err": 1.3620882667166335e-06,
+        "last_rev": 106,
+        "last_value": 8.15176322885979e-05,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(True, '<f8', 10000.0)",
+        "prev_value": 0.00011454501742609443
+    },
+    {
+        "change_rev": [
+            null,
+            13
+        ],
+        "idx": 37,
+        "last_err": 8.99125742166245e-06,
+        "last_rev": 106,
+        "last_value": 0.0007067717083333335,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(True, '<f8', 100000.0)",
+        "prev_value": 0.0009416259909090911
+    },
+    {
+        "change_rev": [
+            38,
+            40
+        ],
+        "idx": 38,
+        "last_err": 3.110028771929896e-05,
+        "last_rev": 106,
+        "last_value": 0.00677840226666666,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(True, '<f8', 1000000.0)",
+        "prev_value": 0.006615947125
+    },
+    {
+        "change_rev": [
+            38,
+            40
+        ],
+        "idx": 39,
+        "last_err": 0.00039664547368421424,
+        "last_rev": 106,
+        "last_value": 0.06670424500000005,
+        "name": "benchmarks.Histogram1D.time_histogram1d",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d(True, '<f8', 10000000.0)",
+        "prev_value": 0.06501863475000003
+    },
+    {
+        "change_rev": null,
+        "idx": 0,
+        "last_err": 6.408204975395712e-06,
+        "last_rev": 106,
+        "last_value": 0.00031313664571428574,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(False, '>i4', 1000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 1,
+        "last_err": 7.321559089713236e-06,
+        "last_rev": 106,
+        "last_value": 0.0007032032692307695,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(False, '>i4', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 2,
+        "last_err": 4.1656213476874174e-05,
+        "last_rev": 106,
+        "last_value": 0.0048528644545454535,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(False, '>i4', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 3,
+        "last_err": 0.00030419787134503164,
+        "last_rev": 106,
+        "last_value": 0.04576169700000003,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(False, '>i4', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 4,
+        "last_err": 0.0022582266666666875,
+        "last_rev": 106,
+        "last_value": 0.4675028459999999,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(False, '>i4', 10000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 5,
+        "last_err": 2.4849753545219757e-06,
+        "last_rev": 106,
+        "last_value": 0.0002695974119804402,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(False, '<f4', 1000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 6,
+        "last_err": 5.711164475823972e-06,
+        "last_rev": 106,
+        "last_value": 0.000478689061135371,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(False, '<f4', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 7,
+        "last_err": 1.654593877553855e-05,
+        "last_rev": 106,
+        "last_value": 0.0028280644736842133,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(False, '<f4', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 8,
+        "last_err": 0.00013248255921052612,
+        "last_rev": 106,
+        "last_value": 0.02549766175000001,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(False, '<f4', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 9,
+        "last_err": 0.001393297368421046,
+        "last_rev": 106,
+        "last_value": 0.2517828074999999,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(False, '<f4', 10000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 10,
+        "last_err": 2.758773442442154e-06,
+        "last_rev": 106,
+        "last_value": 0.00028401642764857866,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(False, '>f8', 1000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 11,
+        "last_err": 7.1252438194752395e-06,
+        "last_rev": 106,
+        "last_value": 0.0005519654772727274,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(False, '>f8', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 12,
+        "last_err": 1.7562824870946137e-05,
+        "last_rev": 106,
+        "last_value": 0.0034811568333333355,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(False, '>f8', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 13,
+        "last_err": 0.0001461041447368426,
+        "last_rev": 106,
+        "last_value": 0.03191471899999998,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(False, '>f8', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 14,
+        "last_err": 0.001913871824561416,
+        "last_rev": 106,
+        "last_value": 0.316565773,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(False, '>f8', 10000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 15,
+        "last_err": 1.7490438831447126e-06,
+        "last_rev": 106,
+        "last_value": 0.0002659486622276031,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(False, '<f8', 1000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 16,
+        "last_err": 7.486014465915305e-06,
+        "last_rev": 106,
+        "last_value": 0.0004963287770270271,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(False, '<f8', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 17,
+        "last_err": 1.912572539379629e-05,
+        "last_rev": 106,
+        "last_value": 0.003095337128571431,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(False, '<f8', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 18,
+        "last_err": 0.00022288978728069968,
+        "last_rev": 106,
+        "last_value": 0.02813942875,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(False, '<f8', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 19,
+        "last_err": 0.0015487223684210406,
+        "last_rev": 106,
+        "last_value": 0.279089339,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(False, '<f8', 10000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 20,
+        "last_err": 8.481466398181688e-07,
+        "last_rev": 106,
+        "last_value": 3.357306199731904e-05,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(True, '>i4', 1000.0)",
+        "prev_value": 4.43553794178408e-05
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 21,
+        "last_err": 7.026618134025339e-07,
+        "last_rev": 106,
+        "last_value": 0.00013211836134969325,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(True, '>i4', 10000.0)",
+        "prev_value": 0.00014210365729431536
+    },
+    {
+        "change_rev": null,
+        "idx": 22,
+        "last_err": 0.00015372087697221236,
+        "last_rev": 106,
+        "last_value": 0.0015333285156250006,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(True, '>i4', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 23,
+        "last_err": 0.0010962776158730202,
+        "last_rev": 106,
+        "last_value": 0.013390219714285716,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(True, '>i4', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 24,
+        "last_err": 0.00014096120000002267,
+        "last_rev": 106,
+        "last_value": 0.11422177999999983,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(True, '>i4', 10000000.0)",
+        "prev_value": 0.2487340102500002
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 25,
+        "last_err": 5.39784423370292e-07,
+        "last_rev": 106,
+        "last_value": 2.888782867856221e-05,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(True, '<f4', 1000.0)",
+        "prev_value": 3.8345092660003124e-05
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 26,
+        "last_err": 6.275041818181978e-07,
+        "last_rev": 106,
+        "last_value": 9.708923772727271e-05,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(True, '<f4', 10000.0)",
+        "prev_value": 0.00010643283800119613
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 27,
+        "last_err": 4.670128729014643e-06,
+        "last_rev": 106,
+        "last_value": 0.0008939781885245895,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(True, '<f4', 100000.0)",
+        "prev_value": 0.0013032744982735816
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 28,
+        "last_err": 1.6067915384614453e-05,
+        "last_rev": 106,
+        "last_value": 0.00824997570833334,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(True, '<f4', 1000000.0)",
+        "prev_value": 0.011717692027777782
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 29,
+        "last_err": 0.00022843010000002107,
+        "last_rev": 106,
+        "last_value": 0.08157157199999998,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(True, '<f4', 10000000.0)",
+        "prev_value": 0.20650491700000007
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 30,
+        "last_err": 6.53452260229718e-07,
+        "last_rev": 106,
+        "last_value": 3.0166850071530727e-05,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(True, '>f8', 1000.0)",
+        "prev_value": 3.986808604245366e-05
+    },
+    {
+        "change_rev": null,
+        "idx": 31,
+        "last_err": 2.1039566480356634e-05,
+        "last_rev": 106,
+        "last_value": 0.0001184793423326133,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(True, '>f8', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 32,
+        "last_err": 0.00025690476995944166,
+        "last_rev": 106,
+        "last_value": 0.0014374694155844148,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(True, '>f8', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 33,
+        "last_err": 0.0024959512472222186,
+        "last_rev": 106,
+        "last_value": 0.0128575005,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(True, '>f8', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 34,
+        "last_err": 0.0007407188000000175,
+        "last_rev": 106,
+        "last_value": 0.10043082950000004,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(True, '>f8', 10000000.0)",
+        "prev_value": 0.22754308174999993
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 35,
+        "last_err": 6.617456386545839e-07,
+        "last_rev": 106,
+        "last_value": 2.5364666202883898e-05,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(True, '<f8', 1000.0)",
+        "prev_value": 2.9764236062181922e-05
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 36,
+        "last_err": 7.564557137636886e-07,
+        "last_rev": 106,
+        "last_value": 8.067308719646793e-05,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(True, '<f8', 10000.0)",
+        "prev_value": 8.524885866722094e-05
+    },
+    {
+        "change_rev": null,
+        "idx": 37,
+        "last_err": 1.4522032957643409e-05,
+        "last_rev": 106,
+        "last_value": 0.0008019654999999998,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(True, '<f8', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 38,
+        "last_err": 0.00012851938865079276,
+        "last_rev": 106,
+        "last_value": 0.006970144099999994,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(True, '<f8', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 39,
+        "last_err": 0.0013358142500000225,
+        "last_rev": 106,
+        "last_value": 0.06873454874999996,
+        "name": "benchmarks.Histogram1D.time_histogram1d_weights",
+        "pretty_name": "benchmarks.Histogram1D.time_histogram1d_weights(True, '<f8', 10000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 0,
+        "last_err": 9.393524293545405e-06,
+        "last_rev": 106,
+        "last_value": 0.0008847765499999994,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(False, '>i4', 1000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 1,
+        "last_err": 1.669660127359967e-05,
+        "last_rev": 106,
+        "last_value": 0.0017894387166666674,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(False, '>i4', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 2,
+        "last_err": 5.6581485275689444e-05,
+        "last_rev": 106,
+        "last_value": 0.012903569437499998,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(False, '>i4', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 3,
+        "last_err": 0.0008462032982456023,
+        "last_rev": 106,
+        "last_value": 0.11626715700000001,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(False, '>i4', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 4,
+        "last_err": 0.012150436964912258,
+        "last_rev": 106,
+        "last_value": 1.330166727,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(False, '>i4', 10000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 5,
+        "last_err": 1.061330057662499e-05,
+        "last_rev": 106,
+        "last_value": 0.0009565942318181814,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(False, '<f4', 1000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 6,
+        "last_err": 1.1984004877282706e-05,
+        "last_rev": 106,
+        "last_value": 0.0020148700094339608,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(False, '<f4', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 7,
+        "last_err": 8.494850877193036e-05,
+        "last_rev": 106,
+        "last_value": 0.014544578214285706,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(False, '<f4', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 8,
+        "last_err": 0.0009827633070175553,
+        "last_rev": 106,
+        "last_value": 0.13285718199999996,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(False, '<f4', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 9,
+        "last_err": 0.00940140568421053,
+        "last_rev": 106,
+        "last_value": 1.5561786299999998,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(False, '<f4', 10000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 10,
+        "last_err": 1.0980431888914363e-05,
+        "last_rev": 106,
+        "last_value": 0.0009481173318181829,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(False, '>f8', 1000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 11,
+        "last_err": 1.93896298670957e-05,
+        "last_rev": 106,
+        "last_value": 0.0022444421874999983,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(False, '>f8', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 12,
+        "last_err": 9.753692397660597e-05,
+        "last_rev": 106,
+        "last_value": 0.017739936999999963,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(False, '>f8', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 13,
+        "last_err": 0.0009737668333333465,
+        "last_rev": 106,
+        "last_value": 0.15727192899999998,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(False, '>f8', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 14,
+        "last_err": 0.012281051877192995,
+        "last_rev": 106,
+        "last_value": 1.7847193469999998,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(False, '>f8', 10000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 15,
+        "last_err": 1.0540587045662955e-05,
+        "last_rev": 106,
+        "last_value": 0.0009465541909090905,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(False, '<f8', 1000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 16,
+        "last_err": 1.4662297329532056e-05,
+        "last_rev": 106,
+        "last_value": 0.0022355973854166662,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(False, '<f8', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 17,
+        "last_err": 8.381693274853828e-05,
+        "last_rev": 106,
+        "last_value": 0.01766117641666668,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(False, '<f8', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 18,
+        "last_err": 0.0008276349912280715,
+        "last_rev": 106,
+        "last_value": 0.156897999,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(False, '<f8', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 19,
+        "last_err": 0.007916332333333347,
+        "last_rev": 106,
+        "last_value": 1.787178468,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(False, '<f8', 10000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 20,
+        "last_err": 7.220552423298216e-07,
+        "last_rev": 106,
+        "last_value": 4.776315875435539e-05,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(True, '>i4', 1000.0)",
+        "prev_value": 5.7593406925207725e-05
+    },
+    {
+        "change_rev": null,
+        "idx": 21,
+        "last_err": 1.5292623068778645e-05,
+        "last_rev": 106,
+        "last_value": 0.00016905825502318397,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(True, '>i4', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 22,
+        "last_err": 0.000193296215046561,
+        "last_rev": 106,
+        "last_value": 0.001959371482142855,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(True, '>i4', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 23,
+        "last_err": 0.0018226501526106905,
+        "last_rev": 106,
+        "last_value": 0.017047882142857143,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(True, '>i4', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 24,
+        "last_err": 0.0008518991999999503,
+        "last_rev": 106,
+        "last_value": 0.1283489204999999,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(True, '>i4', 10000000.0)",
+        "prev_value": 0.26479773699999987
+    },
+    {
+        "change_rev": null,
+        "idx": 25,
+        "last_err": 4.108890872374549e-06,
+        "last_rev": 106,
+        "last_value": 5.152086033914267e-05,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(True, '<f4', 1000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 26,
+        "last_err": 6.786573300984902e-06,
+        "last_rev": 106,
+        "last_value": 0.0001318655556915546,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(True, '<f4', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 27,
+        "last_err": 9.371485365755234e-05,
+        "last_rev": 106,
+        "last_value": 0.0014922154444444455,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(True, '<f4', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 28,
+        "last_err": 8.376550909091097e-05,
+        "last_rev": 106,
+        "last_value": 0.009693291181818185,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(True, '<f4', 1000000.0)",
+        "prev_value": 0.012455643972222201
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 29,
+        "last_err": 0.0004757355000000185,
+        "last_rev": 106,
+        "last_value": 0.09596576500000009,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(True, '<f4', 10000000.0)",
+        "prev_value": 0.22133166100000023
+    },
+    {
+        "change_rev": null,
+        "idx": 30,
+        "last_err": 4.2703253353915364e-06,
+        "last_rev": 106,
+        "last_value": 5.2848374330117934e-05,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(True, '>f8', 1000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 31,
+        "last_err": 1.1682543711411005e-05,
+        "last_rev": 106,
+        "last_value": 0.0001441468699080158,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(True, '>f8', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 32,
+        "last_err": 0.00012249615276040593,
+        "last_rev": 106,
+        "last_value": 0.0016352881716417906,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(True, '>f8', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 33,
+        "last_err": 0.001122957076632552,
+        "last_rev": 106,
+        "last_value": 0.01429757512499999,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(True, '>f8', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 34,
+        "last_err": 0.00026999339999997927,
+        "last_rev": 106,
+        "last_value": 0.11526618749999962,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(True, '>f8', 10000000.0)",
+        "prev_value": 0.24399964149999986
+    },
+    {
+        "change_rev": [
+            null,
+            13
+        ],
+        "idx": 35,
+        "last_err": 1.3369647759732115e-06,
+        "last_rev": 106,
+        "last_value": 4.3569441997192836e-05,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(True, '<f8', 1000.0)",
+        "prev_value": 5.5460153102746654e-05
+    },
+    {
+        "change_rev": null,
+        "idx": 36,
+        "last_err": 5.918321998391089e-06,
+        "last_rev": 106,
+        "last_value": 0.00011042388358974354,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(True, '<f8', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 37,
+        "last_err": 5.149312400951051e-05,
+        "last_rev": 106,
+        "last_value": 0.0009911486409090895,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(True, '<f8', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            72,
+            79
+        ],
+        "idx": 38,
+        "last_err": 9.02378888888878e-05,
+        "last_rev": 106,
+        "last_value": 0.008403745624999995,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(True, '<f8', 1000000.0)",
+        "prev_value": 0.007808641461538453
+    },
+    {
+        "change_rev": null,
+        "idx": 39,
+        "last_err": 0.004445339548245625,
+        "last_rev": 106,
+        "last_value": 0.08414027099999988,
+        "name": "benchmarks.Histogram2D.time_histogram2d",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d(True, '<f8', 10000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 0,
+        "last_err": 1.185041384164097e-05,
+        "last_rev": 106,
+        "last_value": 0.0008869276463414635,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(False, '>i4', 1000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 1,
+        "last_err": 1.2720423055270083e-05,
+        "last_rev": 106,
+        "last_value": 0.0018326665169491518,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(False, '>i4', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 2,
+        "last_err": 8.682929699248169e-05,
+        "last_rev": 106,
+        "last_value": 0.013534158357142858,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(False, '>i4', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 3,
+        "last_err": 0.0008194089824561477,
+        "last_rev": 106,
+        "last_value": 0.1208130220000001,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(False, '>i4', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 4,
+        "last_err": 0.007508998280701791,
+        "last_rev": 106,
+        "last_value": 1.4533142159999999,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(False, '>i4', 10000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 5,
+        "last_err": 8.817338947959022e-06,
+        "last_rev": 106,
+        "last_value": 0.0009499321454545461,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(False, '<f4', 1000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 6,
+        "last_err": 1.1752033401000816e-05,
+        "last_rev": 106,
+        "last_value": 0.0020354821826923087,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(False, '<f4', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 7,
+        "last_err": 7.620387552213617e-05,
+        "last_rev": 106,
+        "last_value": 0.014906275999999996,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(False, '<f4', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 8,
+        "last_err": 0.0009162449385965093,
+        "last_rev": 106,
+        "last_value": 0.13528656100000003,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(False, '<f4', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 9,
+        "last_err": 0.006695011245614043,
+        "last_rev": 106,
+        "last_value": 1.6304810170000001,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(False, '<f4', 10000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 10,
+        "last_err": 8.116236283891734e-06,
+        "last_rev": 106,
+        "last_value": 0.0009437002681818186,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(False, '>f8', 1000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 11,
+        "last_err": 1.1369295066070871e-05,
+        "last_rev": 106,
+        "last_value": 0.002282377936170212,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(False, '>f8', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 12,
+        "last_err": 0.00010816038596491146,
+        "last_rev": 106,
+        "last_value": 0.018175046499999986,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(False, '>f8', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 13,
+        "last_err": 0.0004871755087719344,
+        "last_rev": 106,
+        "last_value": 0.16115326099999994,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(False, '>f8', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 14,
+        "last_err": 0.01023889592982459,
+        "last_rev": 106,
+        "last_value": 1.8733881559999999,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(False, '>f8', 10000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 15,
+        "last_err": 8.825430217516654e-06,
+        "last_rev": 106,
+        "last_value": 0.0009355818727272727,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(False, '<f8', 1000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 16,
+        "last_err": 1.3204947237818328e-05,
+        "last_rev": 106,
+        "last_value": 0.0022533515312499986,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(False, '<f8', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 17,
+        "last_err": 0.00011809070467836413,
+        "last_rev": 106,
+        "last_value": 0.017805079666666668,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(False, '<f8', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 18,
+        "last_err": 0.0009183155526315721,
+        "last_rev": 106,
+        "last_value": 0.15781632200000006,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(False, '<f8', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 19,
+        "last_err": 0.009969290824561439,
+        "last_rev": 106,
+        "last_value": 1.796954673,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(False, '<f8', 10000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 20,
+        "last_err": 8.40686006514817e-07,
+        "last_rev": 106,
+        "last_value": 5.13418873536299e-05,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(True, '>i4', 1000.0)",
+        "prev_value": 6.791724510825109e-05
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 21,
+        "last_err": 8.079897010733299e-07,
+        "last_rev": 106,
+        "last_value": 0.0001819749592346088,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(True, '>i4', 10000.0)",
+        "prev_value": 0.0001944773915845433
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 22,
+        "last_err": 3.1378330827516733e-06,
+        "last_rev": 106,
+        "last_value": 0.0016900633174603181,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(True, '>i4', 100000.0)",
+        "prev_value": 0.003241470754679143
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 23,
+        "last_err": 8.461914285717506e-06,
+        "last_rev": 106,
+        "last_value": 0.01536051014285714,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(True, '>i4', 1000000.0)",
+        "prev_value": 0.02894586824999998
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 24,
+        "last_err": 0.0012950672000000107,
+        "last_rev": 106,
+        "last_value": 0.15340069150000013,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(True, '>i4', 10000000.0)",
+        "prev_value": 0.34662208950000006
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 25,
+        "last_err": 7.709915129153083e-07,
+        "last_rev": 106,
+        "last_value": 4.43187117408907e-05,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(True, '<f4', 1000.0)",
+        "prev_value": 5.916945946510637e-05
+    },
+    {
+        "change_rev": null,
+        "idx": 26,
+        "last_err": 6.907113100672056e-06,
+        "last_rev": 106,
+        "last_value": 0.0001404279059139787,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(True, '<f4', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 27,
+        "last_err": 5.049956067845318e-06,
+        "last_rev": 106,
+        "last_value": 0.0012049114101123594,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(True, '<f4', 100000.0)",
+        "prev_value": 0.0027185374525641017
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 28,
+        "last_err": 8.257619999993763e-06,
+        "last_rev": 106,
+        "last_value": 0.010568160800000004,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(True, '<f4', 1000000.0)",
+        "prev_value": 0.024022565799999993
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 29,
+        "last_err": 0.00032088160000012247,
+        "last_rev": 106,
+        "last_value": 0.10445268250000006,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(True, '<f4', 10000000.0)",
+        "prev_value": 0.2851345894999999
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 30,
+        "last_err": 1.5923550682861307e-06,
+        "last_rev": 106,
+        "last_value": 4.682016619784343e-05,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(True, '>f8', 1000.0)",
+        "prev_value": 6.086111196969695e-05
+    },
+    {
+        "change_rev": null,
+        "idx": 31,
+        "last_err": 3.2019613242151707e-05,
+        "last_rev": 106,
+        "last_value": 0.00016101579795021955,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(True, '>f8', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 32,
+        "last_err": 0.0003938575293863176,
+        "last_rev": 106,
+        "last_value": 0.0019587987916666666,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(True, '>f8', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 33,
+        "last_err": 0.003947142683333333,
+        "last_rev": 106,
+        "last_value": 0.018012896124999983,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(True, '>f8', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 34,
+        "last_err": 0.000182193600000069,
+        "last_rev": 106,
+        "last_value": 0.1331412970000001,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(True, '>f8', 10000000.0)",
+        "prev_value": 0.3183337184999999
+    },
+    {
+        "change_rev": [
+            79,
+            90
+        ],
+        "idx": 35,
+        "last_err": 6.165764852129853e-07,
+        "last_rev": 106,
+        "last_value": 4.080465005954745e-05,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(True, '<f8', 1000.0)",
+        "prev_value": 4.697003148800424e-05
+    },
+    {
+        "change_rev": null,
+        "idx": 36,
+        "last_err": 2.7637565842489444e-06,
+        "last_rev": 106,
+        "last_value": 0.00010895535019841268,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(True, '<f8', 10000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 37,
+        "last_err": 2.9207248156118667e-05,
+        "last_rev": 106,
+        "last_value": 0.0009752912818181813,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(True, '<f8', 100000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 38,
+        "last_err": 0.00035751598307692513,
+        "last_rev": 106,
+        "last_value": 0.008218046923076936,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(True, '<f8', 1000000.0)",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 39,
+        "last_err": 0.003583325566666673,
+        "last_rev": 106,
+        "last_value": 0.08111416500000002,
+        "name": "benchmarks.Histogram2D.time_histogram2d_weights",
+        "pretty_name": "benchmarks.Histogram2D.time_histogram2d_weights(True, '<f8', 10000000.0)",
+        "prev_value": null
+    }
+]

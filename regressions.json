@@ -1,0 +1,46 @@
+{
+    "regressions": [
+        [
+            "benchmarks.Histogram2D.time_histogram2d(True, '<f8', 1000.0)",
+            "graphs/arch-x86_64/branch-master/cpu-Intel(R) Celeron(R) CPU N3450 @ 1.10GHz/cython/machine-oneesk/nomkl/numpy-1.14/os-Ubuntu 16.04.3 LTS/python-3.6/ram-3885480/benchmarks.Histogram2D.time_histogram2d.json",
+            {},
+            35,
+            [
+                [
+                    [
+                        null,
+                        5,
+                        3.441764217405166e-05,
+                        5.5460153102746654e-05
+                    ]
+                ],
+                4.3569441997192836e-05,
+                3.441764217405166e-05
+            ]
+        ],
+        [
+            "benchmarks.Histogram2D.time_histogram2d(True, '<f8', 1000000.0)",
+            "graphs/arch-x86_64/branch-master/cpu-Intel(R) Celeron(R) CPU N3450 @ 1.10GHz/cython/machine-oneesk/nomkl/numpy-1.14/os-Ubuntu 16.04.3 LTS/python-3.6/ram-3885480/benchmarks.Histogram2D.time_histogram2d.json",
+            {},
+            38,
+            [
+                [
+                    [
+                        null,
+                        15,
+                        0.006314718843749997,
+                        0.008456438083333332
+                    ],
+                    [
+                        null,
+                        79,
+                        0.007808641461538453,
+                        0.008403745624999995
+                    ]
+                ],
+                0.008403745624999995,
+                0.006314718843749997
+            ]
+        ]
+    ]
+}
